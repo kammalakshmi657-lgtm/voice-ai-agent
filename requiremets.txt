@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+ollama
+sounddevice
+scipy
+numpy
